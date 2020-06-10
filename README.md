@@ -1,8 +1,9 @@
 # CHEST X-RAY CLASSIFIER
 
 ### PNEUMONIA | COVID-19 | NORMAL
-- Govind Jeevan (16CO221)
-- Palak Singhal ( 16CO129)
+#### Contributors
+- Govind Jeevan ( @govindjeevan )
+- Palak Singhal ( @smarty1palak )
 
 
 
